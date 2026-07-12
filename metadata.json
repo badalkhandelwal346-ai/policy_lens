@@ -1,0 +1,6 @@
+{
+  "name": "PolicyLens",
+  "description": "An AI-powered policy education platform that explains government policies through interactive timelines, stakeholder analysis, simulators, and simplified AI breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
